@@ -1,5 +1,5 @@
 # AlgoProg-Final-Project
-Top down 2D Shooter 
+Just a Top down 2D Shooter 
 
 ## How to Run
 - Download all the files from the repository.
