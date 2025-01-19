@@ -1,14 +1,16 @@
 # AlgoProg-Final-Project
+Top down 2D Shooter 
 
-How to Run
-Download all the files from the repository.
-Run the game1.py file.
-Game Controls
-W - Move forward
-A - Move left
-S - Move right
-D - Move backwards
-Q - To Switch Weapons
+## How to Run
+- Download all the files from the repository.
+- Run the game1.py file.
 
-Left Mouse Button - Fire weapon (I cast GUN prepare to meet GOD)
-Esc button - Quit the game
+## Game Controls
+W - Move forward<br>
+A - Move left<br>
+S - Move right<br>
+D - Move backwards<br>
+Q - Switch Weapons <br>
+
+Left Mouse Button - Fire weapon <br>
+
